@@ -42,7 +42,7 @@ echo "[*] Installing Python..."
 pkg install python -y
 
 echo "[*] Cloning repository..."
-git clone https://github.com/masimmirzaisi100-art/wifi-huter-helper.git
+git clone https://github.com/masimmirzaisi100-art/wifi-hunter-helper.git
 
 echo "[✓] Done! Starting Toolkit..."
 cd wifi-hunter-helper
