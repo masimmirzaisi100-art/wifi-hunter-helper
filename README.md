@@ -45,5 +45,5 @@ echo "[*] Cloning repository..."
 git clone https://github.com/masimmirzaisi100-art/wifi-huter-helper.git
 
 echo "[✓] Done! Starting Toolkit..."
-cd wifi-huter-helper
-python wifi-huter-helper
+cd wifi-hunter-helper
+python wifi-hunter-helper
