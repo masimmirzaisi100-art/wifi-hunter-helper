@@ -31,23 +31,8 @@
 ║ FIA Cyber Crime Wing ║
 ║ 📞 Helpline: 1991 ║
 ║ 🌐 complaint.fia.gov.pk ║
-#!/bin/bash
-# install.sh - WiFi Hunter Helper Auto Installer
-# Author: masimmirzaisi100-art
 
-echo "[*] Updating packages..."
-pkg update && pkg upgrade -y
-
-echo "[*] Installing Python..."
-pkg install python -y
-
-echo "[*] Cloning repository..."
-git clone https://github.com/masimmirzaisi100-art/wifi-huter-helper.git
-
-echo "[✓] Done! Starting Toolkit..."
-cd wifi-huter-helper
-python #!/bin/bash
-# install.sh - WiFi Hunter Helper Auto Installer
+# installation
 # Author: masimmirzaisi100-art
 
 echo "[*] Updating packages..."
