@@ -46,4 +46,4 @@ git clone https://github.com/masimmirzaisi100-art/wifi-huter-helper.git
 
 echo "[✓] Done! Starting Toolkit..."
 cd wifi-hunter-helper
-python wifi-hunter-helper
+run python wi.py
